@@ -3,3 +3,6 @@ print(*a)
 print('Hello, World!')
 
 print('asdasda')
+
+
+print('qwewqeqwe qeqeqew')
