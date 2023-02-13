@@ -6,3 +6,5 @@ print('asdasda')
 
 
 print('qwewqeqwe qeqeqew')
+
+print('qweaz asd zxc aqws dqw ')
